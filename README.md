@@ -8,14 +8,7 @@
 
 1. Download or clone the repository.
 2. Inside `src/main/resources`, create a file named `.env`.
-3. Put the following information inside that file:
-    ```
-    MONGO_DATABASE="capstone"
-    MONGO_USER="sridhar353"
-    MONGO_PASS="IzLbVuag6GdvnBoE"
-    MONGO_CLUSTER="cluster0.enum13t.mongodb.net"
-    ```
-    or use any MongoDB database credentials.
+3. Put Razorpay key inside this file.
 4. Run the main file as a Spring application to run the backend.
 
 ## About the Project
